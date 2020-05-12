@@ -1,0 +1,37 @@
+.MainClass {
+    width:30%;
+    height:40%;
+    position: fixed; 
+    left: 35%;
+    top: 10%;
+    z-index: 1;
+    margin-left: auto;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.Modal{
+    padding: 5px;
+    margin: 10px;
+    font-size: larger;
+}
+
+.Close {
+    float: right;
+    border: 2px solid black;
+    padding: 5px;
+    font-weight: 200;
+    font-size: small;
+}
+
+.Title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.Button {
+    background-color: turquoise;
+    margin: 5px;
+    padding: 5px;
+}

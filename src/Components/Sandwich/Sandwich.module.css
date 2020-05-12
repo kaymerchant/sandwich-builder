@@ -1,0 +1,11 @@
+.MainClass {
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    overflow: scroll;
+    background-color: whitesmoke;
+}
+
+.Text {
+    text-align: center;
+}

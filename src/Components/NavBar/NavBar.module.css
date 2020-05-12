@@ -1,0 +1,16 @@
+.MainClass {
+    height: 10%;
+    background-color: yellow;
+    padding: 5px;
+    margin : 5px 0;
+    text-align: center
+}
+
+.Logo {
+    width: 7%;
+}
+
+.Button {
+    display: inline-block;
+    float: right;
+}
