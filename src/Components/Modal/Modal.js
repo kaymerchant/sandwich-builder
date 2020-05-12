@@ -21,11 +21,21 @@ const modal = (props) => {
     let placeOrder = () => {
         alert("Order has been placed sucessfully");
     }
+    let totalPrice = 0
+
+        if(props.toDisplay.sandwichPrice == 2.00) {
+            totalPrice= 0
+        }
+        else {
+            totalPrice = props.toDisplay.sandwichPrice + props.toDisplay.addOnPrice
+        }
+    
     return (
         <div className={classes.MainClass}>
             <div className={classes.Modal}>
                 <div className={classes.Close} onClick={props.closeModal}>Close</div>
                 <div className={classes.Title}>ORDER SUMMARY</div>
+                <div className={classes.Title}>Total Amount : ${totalPrice.toFixed(2)}</div>
                 {listOfIngredients}
                 {"AddOns : "}
                 {counter === 0? "None" : listOfAddOn}<br/>

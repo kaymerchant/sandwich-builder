@@ -30,6 +30,7 @@ const addOn = (props) => {
     let totalAmount = () => {
         if(props.finalPrice.sandwichPrice === 2 && props.finalPrice.addOnPrice > 0) {
             alert("Build your sandwich, addOn has been added")
+            return
            
         }
         else if(props.finalPrice.sandwichPrice === 2) {
