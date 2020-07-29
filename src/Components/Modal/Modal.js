@@ -23,7 +23,7 @@ const modal = (props) => {
     }
     let totalPrice = 0
 
-        if(props.toDisplay.sandwichPrice == 2.00) {
+        if(props.toDisplay.sandwichPrice === 2.00) {
             totalPrice= 0
         }
         else {
