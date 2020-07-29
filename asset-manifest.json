@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sandwich-builder/static/css/main.38e6bd73.chunk.css",
-    "main.js": "/sandwich-builder/static/js/main.7d34c08f.chunk.js",
-    "main.js.map": "/sandwich-builder/static/js/main.7d34c08f.chunk.js.map",
+    "main.css": "/sandwich-builder/static/css/main.a6594369.chunk.css",
+    "main.js": "/sandwich-builder/static/js/main.eda43ae4.chunk.js",
+    "main.js.map": "/sandwich-builder/static/js/main.eda43ae4.chunk.js.map",
     "runtime-main.js": "/sandwich-builder/static/js/runtime-main.18bfda51.js",
     "runtime-main.js.map": "/sandwich-builder/static/js/runtime-main.18bfda51.js.map",
     "static/js/2.a7f21237.chunk.js": "/sandwich-builder/static/js/2.a7f21237.chunk.js",
     "static/js/2.a7f21237.chunk.js.map": "/sandwich-builder/static/js/2.a7f21237.chunk.js.map",
     "index.html": "/sandwich-builder/index.html",
-    "precache-manifest.4448b95de53eb518cea07153142ee183.js": "/sandwich-builder/precache-manifest.4448b95de53eb518cea07153142ee183.js",
+    "precache-manifest.e2ea6363b0492caa1f66ae85124dff72.js": "/sandwich-builder/precache-manifest.e2ea6363b0492caa1f66ae85124dff72.js",
     "service-worker.js": "/sandwich-builder/service-worker.js",
-    "static/css/main.38e6bd73.chunk.css.map": "/sandwich-builder/static/css/main.38e6bd73.chunk.css.map",
+    "static/css/main.a6594369.chunk.css.map": "/sandwich-builder/static/css/main.a6594369.chunk.css.map",
     "static/js/2.a7f21237.chunk.js.LICENSE.txt": "/sandwich-builder/static/js/2.a7f21237.chunk.js.LICENSE.txt",
     "static/media/chips.png": "/sandwich-builder/static/media/chips.d582e1d7.png",
     "static/media/cookie.png": "/sandwich-builder/static/media/cookie.6b0a64a3.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.18bfda51.js",
     "static/js/2.a7f21237.chunk.js",
-    "static/css/main.38e6bd73.chunk.css",
-    "static/js/main.7d34c08f.chunk.js"
+    "static/css/main.a6594369.chunk.css",
+    "static/js/main.eda43ae4.chunk.js"
   ]
 }
